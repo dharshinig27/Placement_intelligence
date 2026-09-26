@@ -1,0 +1,11 @@
+{
+  "name": "Placement Intelligence Platform",
+  "description": "Comprehensive career readiness platform featuring Career Fit Analyzer, AI Mock Interview Simulator, Spaced Memory Revival, and Unified Placement Dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
